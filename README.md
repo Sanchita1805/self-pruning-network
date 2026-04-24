@@ -19,4 +19,4 @@ This project implements a neural network that learns to prune its own weights du
 
 ## Run
 ```bash]
-python train.py
+python main.py
